@@ -1,0 +1,29 @@
+###Development Environment Setup
+####IDE
+You can use either IntelliJ or Eclipse, I prefer IntelliJ for its rich
+and easy to use plugins.
+
+Download IntelliJ from https://www.jetbrains.com/idea/download/
+
+You can refer to the documentation at https://www.jetbrains.com/idea/documentation/
+
+####Version Control
+
+Software development is a collaborative process with a team of people writing code.
+As the code evolves, it is important to version the programme files. There are a number of
+version control systems used in the industry. Most popular of them is git. 
+
+Github provides an open source version control system based on Git. You can create remote repositories.
+Install Git client which provides command line tooling for working with the repository.
+Alternatively, you can also use the IDE's integrated tooling for git and other version control systems.
+
+Download and install git
+https://gitforwindows.org/
+
+User documentation https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+https://git-scm.com/docs/git-config
+
+You can work on this sample project by cloning the git repository.
+
+git clone 
+
